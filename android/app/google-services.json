@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "839859037412",
+    "project_id": "ishop-c651d",
+    "storage_bucket": "ishop-c651d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839859037412:android:d6b7ca1013b612be6138f1",
+        "android_client_info": {
+          "package_name": "com.fillup.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839859037412-sosk5f2av7ld7vknb7chnh9rirgdoo7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9-bt2sZOGBGYHg4uloK2ujnp0qUaQI1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839859037412-sosk5f2av7ld7vknb7chnh9rirgdoo7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839859037412:android:a7bd21792d876cb36138f1",
+        "android_client_info": {
+          "package_name": "com.fillup.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839859037412-sosk5f2av7ld7vknb7chnh9rirgdoo7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9-bt2sZOGBGYHg4uloK2ujnp0qUaQI1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839859037412-sosk5f2av7ld7vknb7chnh9rirgdoo7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
